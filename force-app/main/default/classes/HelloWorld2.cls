@@ -1,3 +1,3 @@
 public class HelloWorld2 {
- // adding a comment
+ // updating the comment to cause conflict.
 }
